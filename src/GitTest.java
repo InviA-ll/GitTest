@@ -12,4 +12,8 @@ public class GitTest {
     public void test2(){
         System.out.println("Git test2");
     }
+
+    public void test3(){
+
+    }
 }
