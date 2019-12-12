@@ -4,5 +4,5 @@ public class GitTest {
     private String str10;
     
     private String str5;
-    private String str4;
+    private String str6;
 }
