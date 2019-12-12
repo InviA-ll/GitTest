@@ -10,10 +10,6 @@ public class GitTest {
         System.out.println("Git tes1111t");
     }
 
-    public void test2(){
-        System.out.println("Git test6");
-    }
-
     public void test3(){
 
     }
