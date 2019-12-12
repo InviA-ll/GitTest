@@ -12,8 +12,10 @@ public class GitTest {
 
     public void test2(){
         System.out.println("Git test6");
-        System.out.println("Git test6");
+        System.out.println("Git te");
     }
     
-    public void test3(){}
+    public void test3(){
+    int i = 1;
+    }
 }
