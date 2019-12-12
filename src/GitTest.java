@@ -6,7 +6,7 @@ public class GitTest {
     private String str2;
 
     public void test(){
-        System.out.println("Git test");
+        System.out.println("Git tes1111t");
     }
 
     public void test2(){
